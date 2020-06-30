@@ -16,4 +16,4 @@ Type "S" to scale the plane and move your mouse until the coordinates show that 
 <img src="./ReadMe/blender_4.png">
 
 From the Scene Collection, expand the Grid and select the Grid that you just created so the grid will be displayed
-<img src="./ReadMe/blender_4.png">
+<img src="./ReadMe/blender_5.png">
