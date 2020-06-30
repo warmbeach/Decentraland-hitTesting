@@ -14,3 +14,6 @@ Click on Add -> Mesh -> Grid to get a new grid that we can use to create various
 
 Type "S" to scale the plane and move your mouse until the coordinates show that its roughly 3.0000 X 3.0000 X 3.0000 (it does not have to be exact)
 <img src="./ReadMe/blender_4.png">
+
+From the Scene Collection, expand the Grid and select the Grid that you just created so the grid will be displayed
+<img src="./ReadMe/blender_4.png">
