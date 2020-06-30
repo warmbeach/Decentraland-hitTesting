@@ -11,3 +11,6 @@ When the new file opens, a cube will be selected (highlighted with orange around
 
 Click on Add -> Mesh -> Grid to get a new grid that we can use to create various areas to hit test on:
 <img src="./ReadMe/blender_3.png">
+
+Type "S" to scale the plane and move your mouse until the coordinates show that its roughly 3.0000 X 3.0000 X 3.0000 (it does not have to be exact)
+<img src="./ReadMe/blender_4.png">
