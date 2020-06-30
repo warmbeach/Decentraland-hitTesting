@@ -25,4 +25,4 @@ Right-click on the selection you just created and click on Separate -> Selection
 <img src="./ReadMe/blender_7.png">
 
 You will now see that your selection is no longer a part of the original grid, and that it has its own entry in the Scene Collection
-<img src="./ReadMe/blender_7.png">
+<img src="./ReadMe/blender_8.png">
