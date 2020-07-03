@@ -63,5 +63,5 @@ Once you choose your color from the color wheel, you will see that color has bee
 Choose the `Shading` view from the top menu and you will now see the color red on your cube
 <img src="./ReadMe/blender_20.png">
 
-Repeat this process for the remaining 3 corner cubes by going back to `Modeling` view and giving each of the remaining cubes a unique color
+Repeat this process for the remaining 3 corner cubes by going back to `Modeling` view and giving each of the remaining corner cubes a unique color.  Check your work by going back to `Shading` view and make sure all the cubes are a different color now
 <img src="./ReadMe/blender_21.png">
