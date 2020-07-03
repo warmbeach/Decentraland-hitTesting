@@ -29,3 +29,9 @@ You will now see that your selection is no longer a part of the original grid, a
 
 Repeat this for the remaining 3 corners of the plane so you have `Grid.001` through `Grid.004` in the Scene Collection
 <img src="./ReadMe/blender_9.png">
+
+Now do the same for the center of your large plane with a selection that is 3 X 3
+<img src="./ReadMe/blender_10.png">
+
+And sepearate it so it becomes `Grid.005`
+<img src="./ReadMe/blender_11.png">
