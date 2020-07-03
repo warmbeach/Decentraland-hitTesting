@@ -40,7 +40,7 @@ In the scene selection pane of blender, you can now click on the eyeball next to
 <img src="./ReadMe/blender_12.png">
 
 Make sure you are in Edit Mode, and use the Zoom button by clicking and holding down while also moving the mouse/trackpad to zoom out so you will be able to select all of your `Grid.001` to `Grid.005` meshes on the screen
-<img src="./ReadMe/blender_13.png">
+<img src="./ReadMe/blender_13.1.png">
 
 Now Select all the meshes by clicking and dragging a rectangle around them so all the parts of the mesh are inside the rectangle selection area
 <img src="./ReadMe/blender_14.png">
