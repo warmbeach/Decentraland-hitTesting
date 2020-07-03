@@ -48,6 +48,17 @@ Now Select all the meshes by clicking and dragging a rectangle around them so al
 Select `Extrude` and Select -> All to select all the visible meshes on the screen
 <img src="./ReadMe/blender_15.png">
 
-Grab the plus (+) and pull it up until your flat meshes turn into cubes
+Grab the plus (+) with your mouse/trackpad and pull it up until your flat meshes turn into cubes
 <img src="./ReadMe/blender_16.png">
 
+Now lets give each cube a unique color.  Click on `Grid.001` in the Scene Collection and expand it and select `Grid.001` in the menu and then click the `material properties` and then `New`
+<img src="./ReadMe/blender_17.1.png">
+
+Click on the base color, and then choose a color from the color wheel by clicking inside the color wheel.  Choose a shade of red for `Grid.001`
+<img src="./ReadMe/blender_18.png">
+
+Once you choose your color from the color wheel, you will see that color has been assigned to your cube, however it will not display on screen in that color while in modeling mode
+<img src="./ReadMe/blender_19.png">
+
+Choose the `Shading` view from the top menu and you will now see the color red on your cube
+<img src="./ReadMe/blender_20.png">
