@@ -58,7 +58,7 @@ Click on the base color, and then choose a color from the color wheel by clickin
 <img src="./ReadMe/blender_18.png">
 
 Once you choose your color from the color wheel, you will see that color has been assigned to your cube, however it will not display on screen in that color while in modeling mode
-<img src="./ReadMe/blender_19.png">
+<img src="./ReadMe/blender_19.1.png">
 
 Choose the `Shading` view from the top menu and you will now see the color red on your cube
 <img src="./ReadMe/blender_20.png">
