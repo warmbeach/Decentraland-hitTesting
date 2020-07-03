@@ -36,5 +36,5 @@ Now do the same for the center of your large plane with a selection that is 3 X 
 And sepearate it so it becomes `Grid.005`
 <img src="./ReadMe/blender_11.png">
 
-In the scene selection pane of blender, you can now click on the eyeball next to `Grid` and it will turn of visibility for the rest of the plane leaving only your new meshes
+In the scene selection pane of blender, you can now click on the eyeball next to `Grid` and it will turn off visibility for the rest of the plane leaving only your new meshes
 <img src="./ReadMe/blender_12.png">
