@@ -44,3 +44,10 @@ Make sure you are in Edit Mode, and use the Zoom button by clicking and holding 
 
 Now Select all the meshes by clicking and dragging a rectangle around them so all the parts of the mesh are inside the rectangle selection area
 <img src="./ReadMe/blender_14.png">
+
+Select `Extrude` and Select -> All to select all the visible meshes on the screen
+<img src="./ReadMe/blender_15.png">
+
+Grab the plus (+) and pull it up until your flat meshes turn into cubes
+<img src="./ReadMe/blender_16.png">
+
