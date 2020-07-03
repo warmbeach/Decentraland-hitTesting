@@ -26,3 +26,6 @@ Right-click on the selection you just created and click on Separate -> Selection
 
 You will now see that your selection is no longer a part of the original grid, and that it has its own entry in the Scene Collection - `Grid.001`
 <img src="./ReadMe/blender_8.png">
+
+Repeat this for the remaining 3 corners of the plane so you have `Grid.001` through `Grid.004` in the Scene Collection
+<img src="./ReadMe/blender_9.png">
