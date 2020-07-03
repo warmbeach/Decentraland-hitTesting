@@ -57,8 +57,11 @@ Now lets give each cube a unique color.  Click on `Grid.001` in the Scene Collec
 Click on the base color, and then choose a color from the color wheel by clicking inside the color wheel.  Choose a shade of red for `Grid.001`
 <img src="./ReadMe/blender_18.png">
 
-Once you choose your color from the color wheel, you will see that color has been assigned to your cube, however it will not display on screen in that color while in modeling mode
+Once you choose your color from the color wheel, you will see that color has been assigned to your cube, however it will not display on screen in that color while in `Modeling` mode
 <img src="./ReadMe/blender_19.1.png">
 
 Choose the `Shading` view from the top menu and you will now see the color red on your cube
 <img src="./ReadMe/blender_20.png">
+
+Repeat this process for the remaining 3 corner cubes by going back to `Modeling` view and giving each of the remaining cubes a unique color
+<img src="./ReadMe/blender_21.png">
