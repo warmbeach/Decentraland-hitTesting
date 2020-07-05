@@ -64,4 +64,4 @@ Repeat this process for the remaining 3 corner cubes by going back to `Modeling`
 <img src="./ReadMe/blender_21.1.png">
 
 Now we must export our model to a format that Decentraland can understand.  From the `File` menu, select `Export` and then `gltf 2.0 (.glb/.gltf)` and choose a name like `tutorial` and export the model.  Its also a good idea to save the native blender file by clicking `File` and then `Save`.  This should result in you having two files, `tutorial.blend` and `tutorial.glb` which are also checked in to this repo under `models`
-<img src="./ReadMe/blender_22.png">
+<img src="./ReadMe/blender_22.1.png">
