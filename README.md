@@ -61,7 +61,7 @@ Choose the `Shading` view from the top menu and you will now see the color red o
 <img src="./ReadMe/blender_20.png">
 
 Repeat this process for the remaining 3 corner cubes by going back to `Modeling` view and giving each of the remaining corner cubes a unique color.  Check your work by going back to `Shading` view and make sure all the cubes are a different color now
-<img src="./ReadMe/blender_21.png">
+<img src="./ReadMe/blender_21.1.png">
 
 Now we must export our model to a format that Decentraland can understand.  From the `File` menu, select `Export` and then `gltf 2.0 (.glb/.gltf)` and choose a name like `tutorial` and export the model.  Its also a good idea to save the native blender file by clicking `File` and then `Save`.  This should result in you having two files, `tutorial.blend` and `tutorial.glb` which are also checked in to this repo under `models`
 <img src="./ReadMe/blender_22.png">
