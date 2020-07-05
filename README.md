@@ -20,7 +20,7 @@ Type "S" to scale the plane and move your mouse until the coordinates show that 
 From the Scene Collection, expand the Grid and select the Grid that you just created so the grid will be displayed
 <img src="./ReadMe/blender_5.png">
 
-Select the vertices (points) around a 2 X 2 grid in the top corner.  You will need to select the vertice in the center of the collection as well:
+Select the vertices (points) around a 2 X 2 grid in the top corner.  You will need to select the vertice in the center of the collection as well.  Hold down the `command` button on a Mac, or the `CTRL` button on Windows to multi-select the vertices
 <img src="./ReadMe/blender_6.png">
 
 Right-click on the selection you just created and click on Separate -> Selection:
