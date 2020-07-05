@@ -42,9 +42,6 @@ In the scene selection pane of blender, you can now click on the eyeball next to
 From the Scene Collection, expand `Grid.001` to `Grid.005` and multi-select the sub nodes for each of those items so the grid is displayed on the faces of those planes
 <img src="./ReadMe/blender_13.2.png">
 
-Now Select all the meshes by clicking and dragging a rectangle around them so all the parts of the mesh are inside the rectangle selection area
-<img src="./ReadMe/blender_14.png">
-
 Select `Extrude` and Select -> All to select all the visible meshes on the screen
 <img src="./ReadMe/blender_15.png">
 
