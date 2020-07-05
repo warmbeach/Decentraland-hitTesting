@@ -33,7 +33,7 @@ Repeat this for the remaining 3 corners of the plane so you have `Grid.001` thro
 Now do the same for the center of your large plane with a selection that is 3 X 3
 <img src="./ReadMe/blender_10.png">
 
-And sepearate it so it becomes `Grid.005`
+And separate it so it becomes `Grid.005`
 <img src="./ReadMe/blender_11.png">
 
 In the scene selection pane of blender, you can now click on the eyeball next to `Grid` and it will turn off visibility for the rest of the plane leaving only your new meshes
@@ -48,7 +48,7 @@ Select `Extrude` and Select -> All to select all the visible meshes on the scree
 Grab the plus (+) with your mouse/trackpad and pull it up until your flat meshes turn into cubes
 <img src="./ReadMe/blender_16.png">
 
-Now lets give each cube a unique color.  Click on `Grid.001` in the Scene Collection and expand it and select `Grid.001` in the menu and then click the `material properties` and then `New`
+Now lets give each cube a unique color.  Click on `Grid.001` in the Scene Collection and expand it and select `Grid.001` in the menu and then click the `Material Properties` and then `New`
 <img src="./ReadMe/blender_17.1.png">
 
 Click on the base color, and then choose a color from the color wheel by clicking inside the color wheel.  Choose a shade of red for `Grid.001`
