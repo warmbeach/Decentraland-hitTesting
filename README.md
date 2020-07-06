@@ -5,8 +5,6 @@ Video available by clicking on thumbnail below
 
 [![Alt text](https://img.youtube.com/vi/5ufjKbY0LHs/0.jpg)](https://www.youtube.com/watch?v=5ufjKbY0LHs)
 
-Missing setup screen for first time blender users
-
 First, we need a model to do testing on.  If you dont already have it, go to https://www.blender.org/download/ and get the latest version of blender.  Its free, its full of features, and it creates the types of files needed in Decentraland.
 
 Open blender and click on New File -> General:
