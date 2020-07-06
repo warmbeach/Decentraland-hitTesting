@@ -7,7 +7,10 @@ Video walk-through of these steps available by clicking on thumbnail below:
 
 First, we need a model to do testing on.  If you dont already have it, go to https://www.blender.org/download/ and get the latest version of blender.  Its free, its full of features, and it creates the types of files needed in Decentraland.
 
-Open blender and click on New File -> General:
+If this is your first time running blender, you will see this screen, leave the defaults or customize your preferences:
+<img src="./ReadMe/blender_0.5.png">
+
+Click on New File -> General:
 <img src="./ReadMe/blender_1.png">
 
 When the new file opens, a cube will be selected (highlighted with orange around the edges).  Hit the "X" key and confirm that you want to delete the cube:
