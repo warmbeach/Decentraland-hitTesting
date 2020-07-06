@@ -1,7 +1,7 @@
 # Decentraland-hitTesting
 Create a model in Blender and then interact with it from a scene in Decentraland
 
-Video available by clicking on thumbnail below
+Video walk-through of these steps available by clicking on thumbnail below:
 
 [![Alt text](https://img.youtube.com/vi/5ufjKbY0LHs/0.jpg)](https://www.youtube.com/watch?v=5ufjKbY0LHs)
 
