@@ -13,3 +13,5 @@ Ignore warnings, or fix them
 create a folder to start, mkdir testDCL
 Make Chrome your default web browser in Windows
 
+Do Mac steps with pictures
+
