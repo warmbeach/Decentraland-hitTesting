@@ -32,5 +32,9 @@ A new tab in your browser should open and you should be able to walk around usin
 `D` - right
 
 
-Clicking and moving your mouse inside the window will also let you look around.
+Clicking and moving your mouse inside the window will also let you look around.  Hit the `esc` key when you are ready to exit and close the tab.
+
+Now lets modify the code...
+
+
 
