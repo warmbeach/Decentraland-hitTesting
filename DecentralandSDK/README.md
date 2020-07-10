@@ -6,10 +6,11 @@ Getting started with the Decentraland SDK can be quite simple.  They have a grea
     Mac - open Terminal
   
     Windows - open `node.js command prompt` from the Start Menu
+    <img src="./images/win_install_1.png">
   
-    Both - type `mkdir decentraland`
+    Mac and Windows - type `mkdir decentraland`
   
-    Both - type `cd decentraland`
+    Mac and Windows - type `cd decentraland`
   
 3) initialize a Decentraland scene in your new folder by typing `npm install -g decentraland`
 
