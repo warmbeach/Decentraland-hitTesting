@@ -13,12 +13,16 @@ Getting started with the Decentraland SDK can be quite simple.  They have a grea
   
     Mac and Windows - type `cd decentraland`
   
-4) initialize a Decentraland scene in your new folder by typing `npm install -g decentraland`
+4) get the Decentraland SDK by typing `npm install -g decentraland`
 
     you may see messages similar to these which can be ignored
     <img src="./images/win_install_2.png">
-5) Make Chrome or Firefox your default browser (Recommended)
-6) From Terminal or command prompt run `dcl init`
+    
+5) run `dcl init` to intialize a new decentraland scene
+
+6) Make Chrome or Firefox your default browser (Recommended)
+
+6) From Terminal or command prompt run `dcl start`
 
 
 A new tab in your browser should open and you should be able to walk around using the following keys:
