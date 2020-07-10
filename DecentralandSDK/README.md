@@ -25,7 +25,7 @@ Getting started with the Decentraland SDK can be quite simple.  They have a grea
 6) From Terminal or command prompt run `dcl start`
 
 
-A new tab in your browser should open and you should be able to walk around using the following keys:
+A new tab in your browser should open and you should be able to walk around the scene in your browser using the following keys:
 
 `W` - forward
 
