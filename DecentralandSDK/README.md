@@ -5,7 +5,7 @@ Make sure you have node installed.
 Windows:
 
 From the start window, type node.js.  If you see this, then click on it.  If not, download and run the installer from https://nodejs.org/en/download/
-
+<img src="./ReadMe/blender_0.5.png">
 
 
 Mac:
