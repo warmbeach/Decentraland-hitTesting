@@ -1,11 +1,11 @@
 Getting started with the Decentraland SDK can be quite simple.  They have a great guide at https://docs.decentraland.org/development-guide/SDK-101/ that you can check out, or you can follow these steps below:
 
+Make sure you have node installed.
+
 Windows:
-From the start window, type CMD.exe
-from the Command Prompt window that comes up, type `node -v`
-if you see this message with any version number, you have node installed and can proceed
-`'node' is not recognized as an internal or external command,
-operable program or batch file.`
+
+From the start window, type node.js.  If you see this, then click on it.  If not, download and run the installer from https://nodejs.org/en/download/
+
 
 
 Mac:
