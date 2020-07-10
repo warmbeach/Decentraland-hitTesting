@@ -1,7 +1,8 @@
 Getting started with the Decentraland SDK can be quite simple.  They have a great guide at https://docs.decentraland.org/development-guide/SDK-101/ that you can check out, or you can follow these steps below:
 
 1) Install Node if you dont already have it from https://nodejs.org/en/download/
-2) create a working folder for your decentraland project
+2) Install Visual Studio code from https://code.visualstudio.com/Download
+3) create a working folder for your decentraland project
 
     Mac - open Terminal
   
@@ -12,11 +13,11 @@ Getting started with the Decentraland SDK can be quite simple.  They have a grea
   
     Mac and Windows - type `cd decentraland`
   
-3) initialize a Decentraland scene in your new folder by typing `npm install -g decentraland`
+4) initialize a Decentraland scene in your new folder by typing `npm install -g decentraland`
 
     you may see messages similar to these which can be ignored
     <img src="./images/win_install_2.png">
-4) play!
+5) play!
 
 Install node from https://nodejs.org/en/download/ if you dont already have it.
 
