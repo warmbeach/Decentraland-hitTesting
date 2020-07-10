@@ -24,9 +24,13 @@ Getting started with the Decentraland SDK can be quite simple.  They have a grea
 A new tab in your browser should open and you should be able to walk around using the following keys:
 
 `W` - forward
+
 `S` - backward
+
 `A` - left
+
 `D` - right
+
 
 Clicking and moving your mouse inside the window will also let you look around.
 
