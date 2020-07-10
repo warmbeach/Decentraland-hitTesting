@@ -3,7 +3,7 @@ Getting started with the Decentraland SDK can be quite simple.  They have a grea
 1) Install Node if you dont already have it from https://nodejs.org/en/download/
 2) create a working folder for your decentraland project
 
-    Mac - open Terminal, type `mkdir decentraland`
+    Mac - open Terminal
   
     Windows - open `node.js command prompt` from the Start Menu
   
